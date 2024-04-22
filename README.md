@@ -1,6 +1,7 @@
 <div align="center">
 
-![Banner](https://i.pinimg.com/originals/31/53/2d/31532d7d378053de3b8bf23c6e7bfae3.gif)
+<img src="https://i.pinimg.com/originals/31/53/2d/31532d7d378053de3b8bf23c6e7bfae3.gif" autoplay>
+
 </div>
 
 # About Me:
