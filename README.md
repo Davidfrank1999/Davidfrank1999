@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hai there <br>This is David.<br>Passionate microbiologist, computational biologist, and biostatistician dedicated to advancing data-driven insights in the life sciences.<br>Proven skills in isolating biosurfactant-producing bacteria, sustainable nanoparticle synthesis, and applying statistical rigor to enhance biological understanding.<br>Skilled in bioinformatics tools, statistical modeling, and machine learning. Seeking impactful opportunities to merge biological insights with statistical excellence.<br>
+Hai there <br>This is David.<br>Passionate microbiologist, computational biologist, and biostatistician dedicated to advancing data-driven insights in the life sciences. Proven skills in isolating biosurfactant-producing bacteria, sustainable nanoparticle synthesis, and applying statistical rigor to enhance biological understanding. Skilled in bioinformatics tools, statistical modeling, and machine learning. Seeking impactful opportunities to merge biological insights with statistical excellence.<br>
 
 
 ## 🌐 Socials:
