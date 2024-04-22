@@ -1,6 +1,8 @@
-Absolutely, let's enhance your profile:
+Certainly! Here's your enhanced profile with the provided GIF as the banner:
 
 ---
+
+![Banner](https://i.pinimg.com/originals/31/53/2d/31532d7d378053de3b8bf23c6e7bfae3.gif)
 
 # 💫 About Me:
 Hello there! I'm David, a passionate microbiologist, computational biologist, and biostatistician dedicated to advancing data-driven insights in the life sciences. I specialize in isolating biosurfactant-producing bacteria, sustainable nanoparticle synthesis, and applying statistical rigor to enhance biological understanding.
@@ -27,4 +29,4 @@ Hello there! I'm David, a passionate microbiologist, computational biologist, an
 
 ---
 
-I've added a section for your personal website and also improved the formatting for better readability. Let me know if there's anything else you'd like to adjust!
+Feel free to let me know if you need further adjustments!
