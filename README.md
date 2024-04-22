@@ -11,7 +11,11 @@ Hello there! I'm David, a passionate microbiologist, computational biologist, an
 ### Socials:
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/david-franklin-d/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/david-franklin-d)
+
+[![Email](https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:davidfranklin1999@gmail.com)
+
+
 </div>
 
 ### Tech Stack:
@@ -21,10 +25,17 @@ Hello there! I'm David, a passionate microbiologist, computational biologist, an
 </div>
 
 ### Website:
-[![Personal Website](https://img.shields.io/badge/Personal%20Website-%2300C2CB.svg?style=for-the-badge&logoColor=white)](https://davidfranklinprofile.super.site/)
+<div align="center" style="margin-top: 20px;">
+    <a href="https://davidfranklinprofile.super.site/" style="text-decoration: none;">
+        <img src="https://img.shields.io/badge/Personal%20Website-%2300C2CB.svg?style=for-the-badge&logoColor=white" alt="Personal Website">
+    </a>
+</div>
 
 ### GitHub Stats:
+<div align="center">
+  
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Davidfrank1999&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+</div>
 
 ---
 
