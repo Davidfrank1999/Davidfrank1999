@@ -1,13 +1,8 @@
 ## Make a nice main page
 Referance vedio-->
 
-```cardlink
-url: https://www.youtube.com/watch?v=LuBXYYEyv88
-title: "Create stunning GitHub Profile!"
-description: "Why one should have a GitHub profile?There are several reasons why having a GitHub profile can be beneficial:Demonstrating your skills and experience: A GitH..."
-host: www.youtube.com
-favicon: https://www.youtube.com/s/desktop/050e6796/img/favicon_32x32.png
-image: https://i.ytimg.com/vi/LuBXYYEyv88/maxresdefault.jpg
+```vedio
+https://www.youtube.com/watch?v=LuBXYYEyv88
 ```
 
 create repository -->(name should be the same as the username) + README.md file
@@ -15,13 +10,8 @@ create repository -->(name should be the same as the username) + README.md file
 
 create your profile using ⬇️ website
 
-```cardlink
-url: https://gprm.itsvg.in/
-title: "GPRM : GitHub Profile ReadMe Maker"
-description: "Best Profile Generator, Create your perfect GitHub Profile ReadMe in the best possible way. Lots of features and tools included, all for free !"
-host: gprm.itsvg.in
-favicon: https://gprm.itsvg.in/logo.png
-image: https://gprm.itsvg.in/webimg.png
+```website
+https://gprm.itsvg.in/
 ```
 
 copy code-- and paste it in README.md file inside the repository you just created
