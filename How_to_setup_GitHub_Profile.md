@@ -27,7 +27,8 @@ image: https://gprm.itsvg.in/webimg.png
 copy code-- and paste it in README.md file inside the repository you just created
 ![](attachment/237d1b0d443e6db6ed7eb9ee17e0df75.png)
 
-then save it using "commit changes..." ![](attachment/a7ecea45de80536c791dbaa189c32820.png)
+then save it using "commit changes..." 
+![](attachment/a7ecea45de80536c791dbaa189c32820.png)
 
 
 ![](attachment/eb1d3c61ac8bead12aeacac21b1a605d.png)
@@ -52,8 +53,7 @@ change the path_to_the_image to either the image location(inside the repository)
 ![](attachment/9e9f463aebc680ba9d09bfd18a13bfbd.png)
 
 the attachment folder is adjacent to the .md file containing the code.
-
-                       (or)
+(or)                       
 you can paste the web link if the image is from web.
 
 Note: the file name should not contain spaces(insted use ' _ ' )
@@ -88,7 +88,8 @@ by adding the type after the starting backticks
 ----
 ## How to make a folder within a folder in Github
 
-create new file --> ![](attachment/96518e3a6ab1389e074a5c214782b52e.png)
+create new file --> 
+![](attachment/96518e3a6ab1389e074a5c214782b52e.png)
 
 type folder name in the file name then add / 
 ![](attachment/aa7f5659646a6882af88c0df7c7e387c.png) 
