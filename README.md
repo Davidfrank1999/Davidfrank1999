@@ -5,7 +5,7 @@
 </div>
 
 # About Me:
-Hello there! I'm David, a passionate microbiologist, computational biologist, and biostatistician dedicated to advancing data-driven insights in the life sciences. I specialize in isolating biosurfactant-producing bacteria, sustainable nanoparticle synthesis, and applying statistical rigor to enhance biological understanding.
+Hello there! I'm David, A passionate bioinformatics software developer with extensive experience in computational biology and microbiology. Adept at leveraging bioinformatics tools and programming languages to analyze complex biological data and develop innovative solutions. Seeking opportunities to contribute to cutting-edge research and advancements in the field.
 
 
 ### Socials:
