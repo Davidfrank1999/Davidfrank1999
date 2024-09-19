@@ -27,7 +27,7 @@ Hello there! I'm David, A passionate bioinformatics software developer with exte
 
 ### Website:
 <div align="center" style="margin-top: 20px;">
-    <a href="https://davidfranklinprofile.super.site/" style="text-decoration: none;">
+    <a href="https://davidfrank1999.github.io/david-portfolio/" style="text-decoration: none;">
         <img src="https://img.shields.io/badge/Personal%20Website-%2300C2CB.svg?style=for-the-badge&logoColor=white" alt="Personal Website">
     </a>
 </div>
